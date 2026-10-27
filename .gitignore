@@ -1,0 +1,9 @@
+# Dependencias y entornos
+node_modules/
+dist/
+venv/
+__pycache__/
+
+# Variables de entorno y configuraciones locales
+.env
+.DS_Store
